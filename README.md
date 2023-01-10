@@ -17,5 +17,5 @@ Pulling data from a defined library
 helper-tools.py 
  - Beneficial for engineers needing monitoring, logging and response messaging for their processes.
 
-output log:
-- ![Image 1-9-23 at 10 33 PM](https://user-images.githubusercontent.com/103475279/211459649-6002a3fd-9a7c-4227-bfaa-217fc22aabfc.jpg)
+ - output log:
+ - ![Image 1-9-23 at 10 33 PM](https://user-images.githubusercontent.com/103475279/211459649-6002a3fd-9a7c-4227-bfaa-217fc22aabfc.jpg)
